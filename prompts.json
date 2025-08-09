@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Instagram Caption Generator",
+    "description": "Generate viral Instagram captions based on your photo description.",
+    "price": 5,
+    "stripePriceId": "price_1PromptTest01"
+  },
+  {
+    "id": "2",
+    "title": "Startup Pitch Deck Prompt",
+    "description": "AI prompt to generate a powerful startup pitch deck outline.",
+    "price": 7,
+    "stripePriceId": "price_1PromptTest02"
+  }
+]
