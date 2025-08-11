@@ -2,15 +2,22 @@
   {
     "id": "1",
     "title": "Instagram Caption Generator",
-    "description": "Generate viral Instagram captions based on your photo description.",
-    "price": 5,
-    "stripePriceId": "price_1PromptTest01"
+    "description": "Generate viral Instagram captions based on your photo.",
+    "price": 50,
+    "stripePriceId": "price_1RuMCH1zNwwo8DDHpZ9pWjI7"
   },
   {
     "id": "2",
     "title": "Startup Pitch Deck Prompt",
-    "description": "AI prompt to generate a powerful startup pitch deck outline.",
-    "price": 7,
-    "stripePriceId": "price_1PromptTest02"
+    "description": "Create a persuasive pitch deck outline for investors.",
+    "price": 50,
+    "stripePriceId": "price_1RuMCr1zNwwo8DDHZMMwUgXl"
+  },
+  {
+    "id": "3",
+    "title": "AI-Powered Blog Post Creator",
+    "description": "Generate a full-length blog post from a short brief.",
+    "price": 50,
+    "stripePriceId": "price_1RuSQZ1zNwwo8DDHgEClm3lv"
   }
 ]
